@@ -1,4 +1,4 @@
 - ネットワークやサーバなどに興味がある学生
 - 使用可能な言語 得意順 Kotlin Java Python C
-- [MinecraftReverseProxy](https://github.com/h1yashi00/MinecraftReverseProxy)MinecraftのDos,DDoS対策用のリバースプロキシ
+- [MinecraftReverseProxy](https://github.com/h1yashi00/MinecraftReverseProxy) Minecraft専用のDos,DDoS対策リバースプロキシ
 - Minecraftのプラグインや､ゲーム内で任意のタイミングでサーバの自動起動してリソースを割り当てる方法や､サーバ間通信をする方法などを作成していました｡
