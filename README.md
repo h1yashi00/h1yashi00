@@ -1,4 +1,3 @@
-- ネットワークやサーバなどに興味がある学生
+- ネットワークやサーバなど
 - 好きな言語 Kotlin
-- [MinecraftReverseProxy](https://github.com/h1yashi00/MinecraftReverseProxy) Minecraft専用のDos,DDoS対策リバースプロキシ
 - 現在はWeb系の勉強中
